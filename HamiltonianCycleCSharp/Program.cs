@@ -5,6 +5,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+/*
+ * Гамильтоновым циклом в графе называют цикл, проходящий через все вершины. 
+ */
+
 namespace HamiltonianCycleCSharp
 {
     class Program
